@@ -1,0 +1,15 @@
+Python
+
+pandas
+numpy
+random
+datetime
+
+SQL
+
+SQLite or your preferred variant.
+
+Tableau or Power BI
+
+I used Tableau Public Desktop Version
+
